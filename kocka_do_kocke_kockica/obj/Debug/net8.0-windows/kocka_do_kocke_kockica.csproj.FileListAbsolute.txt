@@ -1,0 +1,16 @@
+C:\Users\Nikola_Popovic\source\repos\kocka_do_kocke_kockica\bin\Debug\net8.0-windows\kocka_do_kocke_kockica.exe
+C:\Users\Nikola_Popovic\source\repos\kocka_do_kocke_kockica\bin\Debug\net8.0-windows\kocka_do_kocke_kockica.deps.json
+C:\Users\Nikola_Popovic\source\repos\kocka_do_kocke_kockica\bin\Debug\net8.0-windows\kocka_do_kocke_kockica.runtimeconfig.json
+C:\Users\Nikola_Popovic\source\repos\kocka_do_kocke_kockica\bin\Debug\net8.0-windows\kocka_do_kocke_kockica.dll
+C:\Users\Nikola_Popovic\source\repos\kocka_do_kocke_kockica\bin\Debug\net8.0-windows\kocka_do_kocke_kockica.pdb
+C:\Users\Nikola_Popovic\source\repos\kocka_do_kocke_kockica\obj\Debug\net8.0-windows\kocka_do_kocke_kockica.Form1.resources
+C:\Users\Nikola_Popovic\source\repos\kocka_do_kocke_kockica\obj\Debug\net8.0-windows\kocka_do_kocke_kockica.csproj.GenerateResource.cache
+C:\Users\Nikola_Popovic\source\repos\kocka_do_kocke_kockica\obj\Debug\net8.0-windows\kocka_do_kocke_kockica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola_Popovic\source\repos\kocka_do_kocke_kockica\obj\Debug\net8.0-windows\kocka_do_kocke_kockica.AssemblyInfoInputs.cache
+C:\Users\Nikola_Popovic\source\repos\kocka_do_kocke_kockica\obj\Debug\net8.0-windows\kocka_do_kocke_kockica.AssemblyInfo.cs
+C:\Users\Nikola_Popovic\source\repos\kocka_do_kocke_kockica\obj\Debug\net8.0-windows\kocka_do_kocke_kockica.csproj.CoreCompileInputs.cache
+C:\Users\Nikola_Popovic\source\repos\kocka_do_kocke_kockica\obj\Debug\net8.0-windows\kocka_do_kocke_kockica.dll
+C:\Users\Nikola_Popovic\source\repos\kocka_do_kocke_kockica\obj\Debug\net8.0-windows\refint\kocka_do_kocke_kockica.dll
+C:\Users\Nikola_Popovic\source\repos\kocka_do_kocke_kockica\obj\Debug\net8.0-windows\kocka_do_kocke_kockica.pdb
+C:\Users\Nikola_Popovic\source\repos\kocka_do_kocke_kockica\obj\Debug\net8.0-windows\kocka_do_kocke_kockica.genruntimeconfig.cache
+C:\Users\Nikola_Popovic\source\repos\kocka_do_kocke_kockica\obj\Debug\net8.0-windows\ref\kocka_do_kocke_kockica.dll
